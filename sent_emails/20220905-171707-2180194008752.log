@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: yashaswisingh0413@gmail.com
+Date: Mon, 05 Sep 2022 11:47:08 -0000
+Message-ID: <166237842800.32452.8452089853666048619@LAPTOP-MI6CFMV5>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/OA/bbag0j-3a3d12f628cf04c0a647430210dd2f72/
+
+Your username, in case you’ve forgotten: Yashaswi02
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
